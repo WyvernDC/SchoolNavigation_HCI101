@@ -1,2 +1,3 @@
 # MyHCDCWebsite
-A School work to be passed on cc101
+A School work to be passed on HCI101
+
